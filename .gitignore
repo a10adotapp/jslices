@@ -1,0 +1,5 @@
+.local/
+.vscode/
+
+.devcontainer.json
+compose.yaml
